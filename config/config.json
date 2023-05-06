@@ -1,0 +1,9 @@
+{
+    "PORT": 3010,
+    "DATABASE": {
+        "HOST": "localhost",
+        "USER": "root",
+        "PASSWORD": "",
+        "DATABASE": "gamens"
+    }
+}
